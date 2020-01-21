@@ -1,8 +1,8 @@
 # Code-blooded
 
 ## Team Members
-- Adithi
-- Aditya
+- Adithi S Upadhya
+- Aditya Kumar
 - Navaneeth P
 - Rakshit P
 - Srujan Bharadwaj (TL)
